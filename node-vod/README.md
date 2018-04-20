@@ -1,0 +1,8 @@
+# react-vod-node
+
+
+To run the server:
+
+$> npm install
+
+$> node app.js
